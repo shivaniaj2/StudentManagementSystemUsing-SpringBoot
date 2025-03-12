@@ -32,7 +32,7 @@ StudentManagementSystem/
 
 ## 📌 Testing with Postman
 1️⃣ Open Postman.
-2️⃣ Use the API .
+2️⃣ Use the API.
 3️⃣ Send requests and verify responses.
 
 
